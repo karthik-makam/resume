@@ -1,0 +1,147 @@
+.hdr{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+ padding-bottom: 2.5%;
+}
+
+.shell{
+  padding: 5% 15% 5%;
+}
+
+.ul {
+  list-style-type: none;
+}
+.bg-c1{
+  background-color: #d6e0f0;
+}
+
+.ctr{
+  text-align: center;
+}
+/* title */
+#title{
+background-color: #8d93ab;
+padding: 0 15% 0;
+}
+.navbar{
+  font-size: 1.7rem;
+padding-top: 2%;
+}
+.nav-item{
+  color: black;
+  padding-right: 3%;
+}
+
+
+/* title section content */
+
+.intro-container{
+  position: relative;
+ text-align:left;
+  padding-left: 0;
+  padding-top: 2%;
+}
+.intro-text-1{
+  font-size: 6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color: #ee6f57;
+  font-family: 'Montserrat', sans-serif;
+}
+.intro-text{
+  position: absolute;
+  left: 5%;
+  bottom: 10%;
+
+}
+.cmp-bg{
+  width: 1040px;
+  height: 640px;
+
+}
+
+.makam-pic{
+  border-radius: 50%;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+
+}
+.intro-right{
+  background-color: #8d93ab;
+  text-align: center;
+}
+.intro-right-text{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 4%;
+  margin-bottom: 20px;
+}
+.intro-Contact{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+.intro-icons{
+  padding-right: 12%;
+  padding-top: 15%;
+  color: black;
+}
+
+/* about */
+.about{
+  background-color: #f1f3f8;
+}
+.about-txt{
+  padding: 2% 0 1%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.2;
+}
+
+/* education */
+
+.edu-li{
+  padding-bottom: 2.5%;
+}
+
+.edu-hdr-1{
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.edu-hdr-2{
+  font-size: 1.6rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.edu-sscore{
+  font-size: 1.4rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* techinical-skills */
+.skills{
+  background-color: #f1f3f8;
+}
+
+/* projects */
+
+/* certificates&hobbies */
+.ch-pad{
+  padding: 5% 5% 5%;
+
+}
+
+/* end */
+.end{
+  background-color: #8d93ab;
+  padding: 2% 5% 2%;
+}
+.end-icon{
+  color: black;
+  padding:5% 5% 5%;
+}
