@@ -56,8 +56,8 @@ padding-top: 2%;
 
 }
 .cmp-bg{
-  width: 1040px;
-  height: 640px;
+  width: 740px;
+
 
 }
 
@@ -74,7 +74,7 @@ padding-top: 2%;
 }
 .intro-right-text{
   font-family: 'Ubuntu', sans-serif;
-  padding-top: 4%;
+  /* padding-top: 2%; */
   margin-bottom: 20px;
 }
 .intro-Contact{
@@ -82,9 +82,11 @@ padding-top: 2%;
   font-weight: 600;
 }
 .intro-icons{
-  padding-right: 12%;
-  padding-top: 15%;
+  margin: auto;
+  padding:2% 5% 5% ;
   color: black;
+
+
 }
 
 /* about */
@@ -144,4 +146,19 @@ padding-top: 2%;
 .end-icon{
   color: black;
   padding:5% 5% 5%;
+}
+
+
+
+/* mobile */
+@media (max-width: 1080px){
+  .cmp-bg{
+    width: 440px;
+    align-items: center;
+
+    }
+
+    .intro-text-1{
+      font-size: 4rem;
+    }
 }
