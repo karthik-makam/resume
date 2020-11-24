@@ -84,6 +84,7 @@
 .intro-Contact {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+  color: black;
 }
 
 .intro-icons {
@@ -131,6 +132,7 @@
 /* techinical-skills */
 .skills {
   background-color: #f1f3f8;
+  text-align: center;
 }
 
 /* projects */
@@ -158,5 +160,9 @@
 
   .intro-text-1 {
     font-size: 3.8rem;
+  }
+
+  .skills{
+    text-align: center;
   }
 }
